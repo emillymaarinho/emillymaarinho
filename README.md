@@ -2,6 +2,7 @@
 
 - Sou desenvolvedora front-end;
 - Estou trabalhando em uma aplicação de um Quiz;
+- Estou estudando Testes Unitários.
 ##
 <div align="center">
   <a href="https://github.com/emillymaarinho">

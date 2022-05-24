@@ -1,8 +1,8 @@
 ## <div align="center"> Olá! eu sou Émilly Marinho 😄 </div>
 
 - Sou desenvolvedora front-end;
-- Estou trabalhando em uma aplicação de um Quiz;
-- Estou estudando Testes Unitários e Typescript.
+- Competências: ReactJS, Javascript, HTML e CSS, Testes Unitários.
+
 ##
 <div align="center">
   <a href="https://github.com/emillymaarinho">

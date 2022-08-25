@@ -1,7 +1,7 @@
 ## <div align="center"> Olá! Eu sou Émilly Marinho 😄 </div>
 
 <div align="center">- Desenvolvedora front-end; </div>
-<div align="center"> - Competências: ReactJS, Javascript, Typescript, HTML e CSS, Testes Unitários. </div>
+<div align="center"> - Competências: ReactJS, Javascript, Typescript, HTML e CSS. </div>
 
 ##
 
